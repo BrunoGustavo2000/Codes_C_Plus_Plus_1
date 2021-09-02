@@ -1,3 +1,6 @@
+//autor: Bruno Gustavo dos santos de lima.
+//linguagem utilizada C++
+
 //Jogo da forca\Hangman Game:
 
 //Bibliotecas utilizadas:
